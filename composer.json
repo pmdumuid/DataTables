@@ -21,8 +21,8 @@
                 "media/js/jquery.dataTables.js"
             ],
             "files": [
-                "media/js/jquery.dataTables.js",
-                "media/js/jquery.dataTables.css"
+                "media/js/jquery.dataTables.min.js",
+                "media/css/jquery.dataTables.min.css"
             ]
         }
     }
