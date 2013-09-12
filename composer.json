@@ -11,5 +11,19 @@
 	"support": {
 		"forum": "https://datatables.net/forums",
 		"source": "https://github.com/DataTables/DataTablesSrc/"
-	}
+	},
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "media/js/jquery.dataTables.js"
+            ],
+            "files": [
+                "media/js/jquery.dataTables.js",
+                "media/js/jquery.dataTables.css"
+            ]
+        }
+    }
 }
