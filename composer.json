@@ -23,7 +23,7 @@
             "files": [
                 "media/js/jquery.dataTables.min.js",
                 "media/css/jquery.dataTables.min.css",
-                "images/*"
+                "media/images/**"
             ]
         }
     }
